@@ -2,9 +2,6 @@
 - 👀 I’m interested in playing with musical beats
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me by email.
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 manugautam987/manugautam987 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
